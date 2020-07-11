@@ -12,5 +12,5 @@
 ![Desktop view](https://github.com/gaurigarg33/gaurigarg33.github.io/blob/master/Desktop%20view.mp4)
 
 
-![Mobile view](https://github.com/gaurigarg33/gaurigarg33.github.io/blob/master/Mobile%20view.mp4)
+![Mobile view1](https://github.com/gaurigarg33/gaurigarg33.github.io/blob/master/Mobile%20view1.webm)
 
