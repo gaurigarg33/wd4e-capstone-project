@@ -1,7 +1,7 @@
 # wd4e-capstone-project
 
 ### w3 validations 
-![w3 validate](https://github.com/gaurigarg33/wd4e-capstone-project/blob/master/w3%20validate.JPG)
+![w3 validate](https://github.com/gaurigarg33/gaurigarg33.github.io/blob/master/w3%20validate.JPG)
 
 ---
 ### Portoflio Demo
